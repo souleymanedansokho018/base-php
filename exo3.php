@@ -1,12 +1,16 @@
 <?php
-$a = 10;
-$b = 5;
-$somme = $a + $b;
-$diff = $a - $b;
-$produit = $a * $b;
-$division = $a / $b;
-echo "Somme : " . $somme . "<br>";
-echo "Différence : " . $diff . "<br>";
-echo "Produit : " . $produit . "<br>";
-echo "Division : " . $division . "<br>";
+$nombre1 = 10;
+$nombre2 = 5;
+
+
+$addition = $nombre1 + $nombre2;
+$soustraction = $nombre1 - $nombre2;
+$produit = $nombre1 * $nombre2;
+$division = $nombre1 / $nombre2;
+
+
+echo "Addition : $nombre1 + $nombre2 = $addition<br>";
+echo "Soustraction : $nombre1 - $nombre2 = $soustraction<br>";
+echo "Produit : $nombre1 * $nombre2 = $produit<br>";
+echo "Division : $nombre1 / $nombre2 = $division<br>";
 ?>
