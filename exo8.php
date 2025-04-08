@@ -1,6 +1,4 @@
-<?php 
-$prenom = "souleymane";
-echo "bonjour $prenom";<?php
+<?php
 function bonjour($prenom) {
     echo "Bonjour, $prenom !";
 }
