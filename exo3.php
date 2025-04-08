@@ -13,4 +13,8 @@ echo "Addition : $nombre1 + $nombre2 = $addition<br>";
 echo "Soustraction : $nombre1 - $nombre2 = $soustraction<br>";
 echo "Produit : $nombre1 * $nombre2 = $produit<br>";
 echo "Division : $nombre1 / $nombre2 = $division<br>";
+echo "Addition : $nombre1 + $nombre2 = $addition";
+echo "Soustraction : $nombre1 - $nombre2 = $soustraction";
+echo "Produit : $nombre1 * $nombre2 = $produit";
+echo "Division : $nombre1 / $nombre2 = $division";
 ?>
